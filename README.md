@@ -11,9 +11,10 @@ Kansas City Standard or BYTE Standard, was a standard developed by BYTE magazine
   </a>
 
   <h3 align="center">Kansas City Standard for the 6502</h3>
+</div>
 
 <!-- GETTING STARTED -->
 ## Videos
-The Curious Place 001 - History of KCS & demodulation of audio to serial - https://youtu.be/6m7vDhscGzU
-The Curious Place 002 - Latching data to Shift Registers - https://youtu.be/ei_JZlPCJcM
-The Curious Place 003 - Connecting the circuit to the 6502 - (<a href="https://github.com/gstrike/CuriousPlace-KansasCityStandard/tree/master/Video-003">code</a>) - https://youtu.be/8Gw-JDOg_2I
+* The Curious Place 001 - History of KCS & demodulation of audio to serial - https://youtu.be/6m7vDhscGzU
+* The Curious Place 002 - Latching data to Shift Registers - https://youtu.be/ei_JZlPCJcM
+* The Curious Place 003 - Connecting the circuit to the 6502 - (<a href="https://github.com/gstrike/CuriousPlace-KansasCityStandard/tree/master/Video-003">code</a>) - https://youtu.be/8Gw-JDOg_2I
