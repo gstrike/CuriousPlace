@@ -25,13 +25,13 @@ In the <a href="kcs-test-files/">kcs-test-files</a> folder, you will find a few 
 
 <p>
 <a href="kcs-test-files/hex_0x55.wav">
-<img src="images/test_hex0x55.gif" />
+<img src="images/test_hex_0x55.gif" />
 </a>
 <b>Hex_0x55</b> - Best one to loop through the circuit to ensure the clock is synced.
 </p>
 <p>
 <a href="kcs-test-files/knight_rider.wav">
-<img src="images/knight_rider.gif" />
+<img src="images/test_knight_rider.gif" />
 </a>
 <b>Knight Rider</b> - “Please Michael, I’m the Knight Industries 2000, not a tomato on wheels!”
 </p>
