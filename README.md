@@ -23,21 +23,22 @@ Kansas City Standard or BYTE Standard, was a standard developed by BYTE magazine
 ## Test Files
 In the <a href="kcs-test-files/">kcs-test-files</a> folder, you will find a few KCS encoded .WAV files that you can use to test the KCS Mix Tape.  A few are functional, like for performing useful tests...  and others just look cool when run through the circuit!
 
+<br />
 <p>
 <a href="kcs-test-files/hex_0x55.wav">
 <img src="images/test_hex_0x55.gif" />
-</a>
+</a><br />
 <b>Hex_0x55</b> - Best one to loop through the circuit to ensure the clock is synced.
 </p>
 <p>
 <a href="kcs-test-files/knight_rider.wav">
 <img src="images/test_knight_rider.gif" />
-</a>
+</a><br />
 <b>Knight Rider</b> - “Please Michael, I’m the Knight Industries 2000, not a tomato on wheels!”
 </p>
 <p>
 <a href="kcs-test-files/alternating.wav">
 <img src="images/test_alternating.gif" />
-</a>
+</a><br />
 <b>Alternating</b> - They never can make up their mind.
 </p>
