@@ -19,3 +19,6 @@ Kansas City Standard or BYTE Standard, was a standard developed by BYTE magazine
 * The Curious Place 002 - Latching data to Shift Registers - https://youtu.be/ei_JZlPCJcM
 * The Curious Place 003 - Connecting the circuit to the 6502 - (<a href="https://github.com/gstrike/CuriousPlace-KansasCityStandard/tree/master/Video-003">code</a>) - https://youtu.be/8Gw-JDOg_2I
 * The Curious Place 004 - Creating a Bootloader for the 6502 and BOOTING from Cassette Tape - (<a href="https://github.com/gstrike/CuriousPlace-KansasCityStandard/tree/master/Video-004">code</a>) - https://youtu.be/viUyY7hbHyY
+
+## Test Files
+In the <a href="https://github.com/gstrike/CuriousPlace-KansasCityStandard/tree/master/kcs-test-files">kcs-test-files</a> folder, you will find a few KCS encoded .WAV files that you can use to test the KCS Mix Tape.  A few are functional, and others just look cool when run through the circuit.
