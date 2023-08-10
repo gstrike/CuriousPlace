@@ -1,4 +1,4 @@
-# The Curious Place - 
+# The Curious Place
 Hey!  Thanks for stopping by.  This is a repository for some of the projects and code I share on The Curious Place on YouTube (https://www.youtube.com/@GregStrike).  
 
 <!-- PROJECT LOGO -->
