@@ -7,8 +7,6 @@ Hey!  Thanks for stopping by.  This is a repository for some of the projects and
   <a href="https://www.youtube.com/@GregStrike">
     <img src="images/banner.png" alt="The Curious Place Banner" />
   </a>
-
-  <h3 align="center">Kansas City Standard for the 6502</h3>
 </div>
 
 <!-- GETTING STARTED -->
