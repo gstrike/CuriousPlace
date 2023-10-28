@@ -15,7 +15,7 @@ In this video, we created a programmable & automated DIY NES Controller for the 
 <!-- GETTING STARTED -->
 ## YouTube Videos
 * The Curious Place 007 - Automating the Orignal NES w/ DIY NES Controller - https://youtu.be/XF2j6qhN4BM
-* The Curious Place 008 - Frame Perfect NES Automation! - [coming VERY soon! :) ]
+* The Curious Place 008 - Frame Perfect NES Automation! - https://youtu.be/5ESqwEplBKc
 
 
 ## Test Files
