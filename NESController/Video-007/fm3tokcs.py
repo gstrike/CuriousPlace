@@ -203,10 +203,12 @@ if __name__ == '__main__':
         print("      FM3_FRAMETIME: {:0.4f}s".format(FM3_FRAMETIME))
         print("         FM3_FRAMES:", FM3_FRAMES)
             
-        #We skip the first byte and then read every other because the first byte of each
-        #frame is control signals (ie. soft reset, power, etc...)
+        #We skip the first byte and then read every other.
+        #Each frame starts with control signals (ie. soft reset, power, etc...) which we dont convert.
+        #Then we only read Player 1, and potentially skip other controllers
+        #that may be recorded in the file.
         file.seek(len(header) + 2)  # Skip the first binary byte
-        fm3_player1_data = file.read(FM3_FRAMES * 3)[::3]  # Read every other byte
+        fm3_player1_data = file.read(FM3_FRAMES * (FM3_PORTS + 1))[::(FM3_PORTS + 1)]
     
     print()
     print()    
